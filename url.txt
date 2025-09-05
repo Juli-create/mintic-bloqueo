@@ -4957,7 +4957,6 @@ pureloli-hentai.net^$dnsrewrite=172.16.20.34
 ||freehentaipic.com^$dnsrewrite=172.16.20.34
 ||suavecitohd.short.gy^$dnsrewrite=172.16.20.34
 ||pizza4house.icu^$dnsrewrite=172.16.20.34
-||www.google.com^$dnsrewrite=172.16.20.34
 ||ist8-3.filesor.com^$dnsrewrite=172.16.20.34
 ||guardpx.top^$dnsrewrite=172.16.20.34
 ||soyoungteens.com^$dnsrewrite=172.16.20.34
